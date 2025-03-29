@@ -2,6 +2,7 @@
 # AI Chat Assistant with Ollama and Django
 
 A real-time chat application powered by Ollama's Llama3 model, featuring WebSocket-based communication and markdown support.
+See how working : https://drive.google.com/file/d/1jv7y5_voo3W93akte7JXrAtrqt2YMq8t/view?usp=sharing
 
 ## Features
 
